@@ -61,7 +61,7 @@ https://templatemo.com/tm-595-3d-coverflow
             },
             {
                 title: "Bunga Garbera",
-                description: "Melambangkan kecerian, kebahagian, serta jumlah tangkai dan warna bunga dapat menjadi makna khusus"
+                description: "Melambangkan keceriaan, kebahagian, serta jumlah tangkai dan warna bunga dapat menjadi makna khusus"
             },
             {
                 title: "Bunga Lily",
