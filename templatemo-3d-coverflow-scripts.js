@@ -44,32 +44,32 @@ https://templatemo.com/tm-595-3d-coverflow
         // Image data with titles and descriptions
         const imageData = [
             {
-                title: "Mountain Landscape",
-                description: "Majestic peaks covered in snow during golden hour"
+                title: "Bunga Sepatu",
+                description: "Melambangkan cinta yang dalam, dan kemakmuran"
             },
             {
-                title: "Forest Path",
-                description: "A winding trail through ancient woodland"
+                title: "Bunga Matahari",
+                description: "Melambangkan kebahagian, kehangatan, harapan, dan kepositifan"
             },
             {
-                title: "Lake Reflection",
-                description: "Serene waters mirroring the surrounding landscape"
+                title: "Bunga Tulip",
+                description: "Melambangkan cinta yang mendalam, dan kasih sayang yang sempurna"
             },
             {
-                title: "Ocean Sunset",
-                description: "Golden hour over endless ocean waves"
+                title: "Bunga Mawar",
+                description: "Melambangkan cinta, keindahan, dan penghormatan"
             },
             {
-                title: "Desert Dunes",
-                description: "Rolling sand dunes under vast blue skies"
+                title: "Bunga Garbera",
+                description: "Melambangkan kecerian, kebahagian, serta jumlah tangkai dan warna bunga dapat menjadi makna khusus"
             },
             {
-                title: "Starry Night",
-                description: "Countless stars illuminating the dark sky"
+                title: "Bunga Lily",
+                description: "Melambangkan kesucian, kemurnian, dan kehidupan baru"
             },
             {
-                title: "Waterfall",
-                description: "Cascading water through lush green forest"
+                title: "Bunga Peony",
+                description: "Melambangkan cinta, keberuntungan, dan kebahagian"
             }
         ];
 
