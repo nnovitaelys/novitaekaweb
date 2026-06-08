@@ -144,3 +144,15 @@ i span{
   font-size: 16px;
   font-family: 'Poppins',sans-serif;
 }
+.signup{
+  font-size: 15px;
+  color: white;
+  font-family: 'Poppins',sans-serif;
+}
+.signup a{
+  color: #3498db;
+  text-decoration: none;
+}
+.signup a:hover{
+  text-decoration: underline;
+}
