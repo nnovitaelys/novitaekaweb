@@ -156,3 +156,6 @@ i span{
 .signup a:hover{
   text-decoration: underline;
 }
+#userInfo{
+  color: yellow;
+}
