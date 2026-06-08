@@ -11,19 +11,21 @@
       <div class="bg-img">
          <div class="content">
             <header>Login Form</header>
-            <form action="#">
+            <form action="loginForm">
                <div class="field">
                   <span class="fa fa-user"></span>
-                  <input type="password" required placeholder="Nama Pengguna">
+                  <input type="text" id="username" required placeholder="Nama Pengguna">
                </div>
                <div class="field space">
                   <span class="fa fa-lock"></span>
-                  <input type="text" class="pass-key required placeholder="Password">
+                  <input type="password" id="password" class="pass-key" required placeholder="Ppassword">
                   <span class="show">SHOW</span>
                </div>
                <div class="field">
                   <input type="submit" value="LOGIN">
                </div>
+            </form>
+            <div id="alertBox" style="display:none;color:red;"></div>
                <nav class="nav-main">
                   <a href="#collections">Collections</a>
                   <a href="#story">Our Story</a>
