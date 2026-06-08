@@ -23,7 +23,7 @@ https://templatemo.com/tm-595-3d-coverflow
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             overflow-x: hidden;
             position: relative;
-            background: #000;
+            background: #FFC5D3;
         }
 
         /* Sections */
@@ -36,15 +36,15 @@ https://templatemo.com/tm-595-3d-coverflow
         }
 
         #home {
-            background: radial-gradient(ellipse at center, #1a1a2e 0%, #0f0f0f 100%);
+            background: radial-gradient(ellipse at center, #1a1a2e 0%, #FFC6CA 100%);
         }
 
         #about {
-            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%);
+            background: linear-gradient(135deg, #0f0f0f 0%, FFD3D6 100%);
         }
 
         #contact {
-            background: radial-gradient(ellipse at center, #1a1a2e 0%, #0f0f0f 100%);
+            background: radial-gradient(ellipse at center, #1a1a2e 0%, FFB0B5 100%);
         }
 
         /* Header Styles */
