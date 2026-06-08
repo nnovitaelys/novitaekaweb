@@ -36,15 +36,15 @@ https://templatemo.com/tm-595-3d-coverflow
         }
 
         #home {
-            background: radial-gradient(ellipse at center, #1a1a2e 0%, #FF8FAB 100%);
+            background: radial-gradient(ellipse at center, #E89EB8 0%, #FF8FAB 100%);
         }
 
         #about {
-            background: linear-gradient(135deg, #0f0f0f 0%, #FF8FAB 100%);
+            background: linear-gradient(135deg, #E89EB8 0%, #FF8FAB 100%);
         }
 
         #contact {
-            background: radial-gradient(ellipse at center, #1a1a2e 0%, #FF8FAB 100%);
+            background: radial-gradient(ellipse at center, #E89EB8 0%, #FF8FAB 100%);
         }
 
         /* Header Styles */
